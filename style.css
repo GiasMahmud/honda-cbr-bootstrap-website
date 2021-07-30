@@ -1,0 +1,31 @@
+.header-bg{
+    background-color: #264653 ;
+}
+.honda-btn{
+    background-color: #E76F51;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.text-style{
+    color: #E76F51;
+    font-weight: bold;
+}
+
+.featured-img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+.client-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+.card i{
+    color: #E77C40
+}
+h5{
+   color:  #23A6F0;
+}
